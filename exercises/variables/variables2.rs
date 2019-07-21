@@ -2,11 +2,7 @@
 // Make me compile! Scroll down for hints :)
 
 fn main() {
-<<<<<<< HEAD
     let x = 10;
-=======
-    let x;
->>>>>>> 7f225fe26a757e4b8426e90a6fd96275107c507d
     if x == 10 {
         println!("Ten!");
     } else {

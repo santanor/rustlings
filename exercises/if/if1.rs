@@ -7,14 +7,11 @@ pub fn bigger(a: i32, b: i32) -> i32 {
     // - another function call
     // - additional variables
     // Scroll down for hints.
-<<<<<<< HEAD
     if(a > b){
         return a;
     }
 
     return b;
-=======
->>>>>>> 7f225fe26a757e4b8426e90a6fd96275107c507d
 }
 
 // Don't mind this for now :)

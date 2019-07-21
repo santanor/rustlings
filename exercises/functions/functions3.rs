@@ -2,11 +2,7 @@
 // Make me compile! Scroll down for hints :)
 
 fn main() {
-<<<<<<< HEAD
     call_me(5);
-=======
-    call_me();
->>>>>>> 7f225fe26a757e4b8426e90a6fd96275107c507d
 }
 
 fn call_me(num: i32) {
