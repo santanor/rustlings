@@ -16,6 +16,11 @@ fn verify_test() {
     let price1 = calculate_price(55);
     let price2 = calculate_price(40);
 
+<<<<<<< HEAD
     assert_eq!(price1, 55);
     assert_eq!(price2, 80);
+=======
+    assert_eq!(55, price1);
+    assert_eq!(80, price2);
+>>>>>>> 7f225fe26a757e4b8426e90a6fd96275107c507d
 }

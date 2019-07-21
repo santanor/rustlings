@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![crab pet](https://i.imgur.com/LbZJgmm.gif) 
 
 # rustlings 🦀❤️
@@ -100,3 +101,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 `rustlings` was originally written by [Carol](https://github.com/carols10cents)!
 
+=======
+Simply my implementation and solutions of the Rustlings excercises :) 
+
+Refer to the [Original repo](https://github.com/rust-lang/rustlings/) for more info
+>>>>>>> 7f225fe26a757e4b8426e90a6fd96275107c507d
